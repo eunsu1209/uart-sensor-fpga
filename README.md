@@ -109,12 +109,20 @@ flowchart LR
 
 ---
 
+## Demo & 발표자료
+
+[![데모 영상 보기](https://img.shields.io/badge/▶_데모_영상_보기-EA4335?style=for-the-badge&logo=youtube&logoColor=white)](docs/Team Project1.mp4)
+
+📄 [발표자료 (PDF)](docs/Team Project1.pdf)
+
+---
+
 ## Project Structure
 
 ```
 uart-sensor-fpga/
 ├── rtl/        # UART sender(FSM/ASM), FIFO, uart_tx, stopwatch, SR04·DHT11 컨트롤러
-├── tb/         # 송신 시나리오 테스트벤치
+├── cons/       # FPGA 제약 파일 (Basys3 핀 배치 .xdc)
 ├── sim/        # 시뮬레이션 스크립트
 ├── docs/       # 발표 자료, 블록 다이어그램
 └── README.md
