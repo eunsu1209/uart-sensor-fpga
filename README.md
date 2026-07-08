@@ -111,9 +111,11 @@ flowchart LR
 
 ## Demo & 발표자료
 
-[![데모 영상 보기](https://img.shields.io/badge/▶_데모_영상_보기-EA4335?style=for-the-badge&logo=youtube&logoColor=white)](docs/Team Project1.mp4)
+[![데모 영상 보기](https://img.shields.io/badge/▶_데모_영상_보기-EA4335?style=for-the-badge&logo=youtube&logoColor=white)](docs/Team%20Project1.mp4)
 
-📄 [발표자료 (PDF)](docs/Team Project1.pdf)
+📄 [발표자료 (PDF)](docs/Team%20Project1.pdf)
+
+---
 
 
 ## Project Structure
