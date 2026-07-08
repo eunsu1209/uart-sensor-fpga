@@ -115,7 +115,6 @@ flowchart LR
 
 📄 [발표자료 (PDF)](docs/Team Project1.pdf)
 
----
 
 ## Project Structure
 
